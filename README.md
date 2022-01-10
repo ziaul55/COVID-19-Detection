@@ -1,6 +1,7 @@
 # SAM: Self-Augmentation Mechanism for COVID-19 Detection using Chest X-Ray Images 
 
 ## Journal: Knowledge-Based Systems - Elsevier
+### Special issue on Deep Learning
 
 ## Highlights
 
