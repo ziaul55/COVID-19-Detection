@@ -1,7 +1,7 @@
 ## SAM: Self-Augmentation Mechanism for COVID-19 Detection using Chest X-Ray Images 
 
-#### Authors: Md. Ziaul Hoque, Anja Keskinarkaus, Pia Nyberg and Tapio Seppänen
 #### Journal: Knowledge Based Systems - Elsevier [Special Issue on Deep Learning]
+##
 
 ### Highlights
 
