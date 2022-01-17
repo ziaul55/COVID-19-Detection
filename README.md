@@ -26,9 +26,7 @@ journal = {Knowledge-Based Systems},
 pages = {108207},
 year = {2022},
 issn = {0950-7051},
-doi = {https://doi.org/10.1016/j.knosys.2022.108207},
-url = {https://www.sciencedirect.com/science/article/pii/S0950705122000545},
-author = {Usman Muhammad and Md. Ziaul Hoque and Mourad Oussalah and Anja Keskinarkaus and Tapio Seppänen and Pinaki Sarder},
+author = {Usman Muhammad and Md. Ziaul Hoque and Mourad Oussalah and Anja Keskinarkaus and Tapio Seppänen and Pinaki Sarder}, publisher={Elsevier}
 }
 
 ### Links
