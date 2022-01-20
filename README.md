@@ -30,8 +30,6 @@ author = {Usman Muhammad and Md. Ziaul Hoque and Mourad Oussalah and Anja Keskin
 }
 
 ### Links
-https://doi.org/10.1016/j.knosys.2022.108207;
-https://www.sciencedirect.com/science/article/pii/S0950705122000545
-
-### Preprint 
-https://doi.org/10.36227/techrxiv.16574990.v1
+• https://doi.org/10.1016/j.knosys.2022.108207;
+• https://www.sciencedirect.com/science/article/pii/S0950705122000545
+• https://doi.org/10.36227/techrxiv.16574990.v1
