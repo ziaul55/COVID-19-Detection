@@ -4,7 +4,6 @@
 ##
 
 ### Highlights
-
 • Feature augmentation is introduced to mitigate the current lack of sufficient annotated data.
 
 • A combined CNN-BiLSTM is employed for the diagnosis of COVID-19 in a robust manner.
