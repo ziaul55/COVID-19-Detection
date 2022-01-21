@@ -19,13 +19,13 @@ COVID-19 is a rapidly spreading viral disease and has affected over 100 countrie
 Usman Muhammad, Md. Ziaul Hoque, Mourad Oussalah, Anja Keskinarkaus, Tapio Seppänen, Pinaki Sarder, SAM: Self-augmentation mechanism for COVID-19 detection using chest X-ray images, Knowledge-Based Systems, 2022, 108207, ISSN 0950-7051, https://doi.org/10.1016/j.knosys.2022.108207.
 
 ### BibTeX
-@article{MUHAMMAD2022108207,
-title = {SAM: Self-augmentation mechanism for COVID-19 detection using chest X-ray images},
-journal = {Knowledge-Based Systems},
-pages = {108207},
-year = {2022},
-issn = {0950-7051},
-author = {Usman Muhammad and Md. Ziaul Hoque and Mourad Oussalah and Anja Keskinarkaus and Tapio Seppänen and Pinaki Sarder}, publisher={Elsevier}
+@article{muhammad2022sam,
+  title={SAM: Self-augmentation mechanism for COVID-19 detection using chest X-ray images},
+  author={Muhammad, Usman and Hoque, Md Ziaul and Oussalah, Mourad and Keskinarkaus, Anja and Sepp{\"a}nen, Tapio and Sarder, Pinaki},
+  journal={Knowledge-Based Systems},
+  pages={108207},
+  year={2022},
+  publisher={Elsevier}
 }
 
 ### Links
