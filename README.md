@@ -1,6 +1,6 @@
 ## [SAM: Self-Augmentation Mechanism for COVID-19 Detection using Chest X-Ray Images](https://www.sciencedirect.com/science/article/pii/S0950705122000545)
 #### Authors: Usman Muhammad, Md. Ziaul Hoque, Mourad Oussalah, Anja Keskinarkaus, Tapio Seppänen and Pinaki Sarder
-#### Journal: [Knowledge Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems) [Special Issue on Deep Learning] - Elsevier 
+#### Journal: [Knowledge Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems) [Special Issue on Deep Learning](https://www.sciencedirect.com/journal/knowledge-based-systems/vol/239/suppl/C#article-58) - Elsevier 
 ##
 
 ### Highlights
